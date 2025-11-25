@@ -1,0 +1,25 @@
+--- General Node.js / VS Code Exclusions ---
+
+Dependencies folder installed by npm
+
+/node_modules
+
+Build output folders and temporary files (optional but good practice)
+
+/bin/
+/obj/
+*.tmp
+
+VS Code and IDE files
+
+.vscode/
+
+--- API KEY & SECRETS EXCLUSIONS ---
+
+Local environment file containing secrets
+
+.env
+
+Log files
+
+*.log

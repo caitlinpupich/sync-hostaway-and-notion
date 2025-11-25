@@ -1,0 +1,26 @@
+{
+  "name": "hostawayandnotionsync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caitlinpupich/sync-hostaway-and-notion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/caitlinpupich/sync-hostaway-and-notion/issues"
+  },
+  "homepage": "https://github.com/caitlinpupich/sync-hostaway-and-notion#readme",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "dotenv": "^17.2.3",
+    "http-status-codes": "^2.3.0"
+  }
+}
